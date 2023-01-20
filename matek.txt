@@ -1,2 +1,3 @@
 algebra
 geometria
+függvenyek
